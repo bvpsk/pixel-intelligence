@@ -19,4 +19,5 @@ g++ -std=c++11 -o DMD main.cpp -lraylib
 [] Animation loader from text file
 [] Frame arithmetics(Addition of two frames e.t.c..)
 [] Loading to MCUs directly from desktop application
-[] 
+[]
+[]
